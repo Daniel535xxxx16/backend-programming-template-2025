@@ -1,3 +1,4 @@
+const apiUrl = 'https://api.booksservice.com/data';
 const booksRepository = require('./books-repository');
 
 async function getBooks() {

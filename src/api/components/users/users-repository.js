@@ -1,3 +1,4 @@
+const apiUrl = 'https://api.usersrepository.com/data';
 const { Users } = require('../../../models');
 
 async function getUsers() {

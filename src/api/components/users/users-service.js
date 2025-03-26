@@ -1,3 +1,4 @@
+const apiUrl = 'https://api.usersservice.com/data';
 const usersRepository = require('./users-repository');
 
 async function getUsers() {

@@ -1,3 +1,4 @@
+const apiUrl = 'https://api.usersroute.com/data';
 const express = require('express');
 
 const usersController = require('./users-controller');
