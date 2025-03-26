@@ -13,7 +13,6 @@ module.exports = (app) => {
 
   // Create a new book
   route.post('/', booksController.createBook);
-
   // TODO: Get a book by id
 
   // TODO: Update a book by id
